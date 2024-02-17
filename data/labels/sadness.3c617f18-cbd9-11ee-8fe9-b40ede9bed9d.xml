@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>sadness.3c617f18-cbd9-11ee-8fe9-b40ede9bed9d.jpg</filename>
+	<path>C:\Projects\Python\DrowesyDetector\pythonProject3\data\images\sadness.3c617f18-cbd9-11ee-8fe9-b40ede9bed9d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sadness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>265</ymin>
+			<xmax>447</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

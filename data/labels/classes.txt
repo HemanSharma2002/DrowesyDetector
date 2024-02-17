@@ -13,5 +13,9 @@ ribs
 pulled pork
 hamburger
 cavity
-awake
-drowsy
+anger
+open Eye
+fear
+joy
+sadness
+surprise

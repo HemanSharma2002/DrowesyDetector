@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>anger.490bab6a-cbd9-11ee-8beb-b40ede9bed9d.jpg</filename>
+	<path>C:\Projects\Python\DrowesyDetector\pythonProject3\data\images\anger.490bab6a-cbd9-11ee-8beb-b40ede9bed9d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>240</ymin>
+			<xmax>426</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>surprise.577ee17a-cbd9-11ee-a1d4-b40ede9bed9d.jpg</filename>
+	<path>C:\Projects\Python\DrowesyDetector\pythonProject3\data\images\surprise.577ee17a-cbd9-11ee-a1d4-b40ede9bed9d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>262</ymin>
+			<xmax>469</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

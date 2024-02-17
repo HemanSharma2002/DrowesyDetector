@@ -1,17 +1,10 @@
-import uuid
-import os
-import time
-
-import matplotlib
-import torch
-from matplotlib import pyplot as plt
 import numpy as np
 import cv2
 import torch
 import cv2
 #Importing the model
 
-model = torch.hub.load('ultralytics/yolov5', 'custom', path='yolov5/runs/train/exp5/weights/last.pt', force_reload=True)
+model = torch.hub.load('ultralytics/yolov5', 'custom', path='yolov5/runs/train/exp7/weights/last.pt', force_reload=True)
 
 # Sample test run
 
